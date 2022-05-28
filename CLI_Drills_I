@@ -1,0 +1,17 @@
+hello
+├── five
+│   └── six
+│       ├── c.txt
+│       └── seven
+│           └── error.log
+└── one
+    ├── a.txt
+    ├── b.txt
+    └── two
+        ├── d.txt
+        └── three
+            ├── e.txt
+            └── four
+                └── access.log
+hello.log
+five.log
